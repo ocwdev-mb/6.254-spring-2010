@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ]
+  ],
+  "legacy_uid": "c4a3d01b-076b-b7d1-3f63-0d74309f1b82",
+  "instructors": {
+    "content": [
+      "7fec853e-865a-745b-5a72-dda98479adc5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "78c83268-aa39-033f-145e-8fdd39744023",
+    "website": "6-254-game-theory-with-engineering-applications-spring-2010"
+  },
+  "course_title": "Game Theory with Engineering Applications",
+  "course_description": "This course is an introduction to the fundamentals of game theory and mechanism design. Motivations are drawn from engineered/networked systems (including distributed control of wireline and wireless communication networks, incentive-compatible/dynamic resource allocation, multi-agent systems, pricing and investment decisions in the Internet), and social models (including social and economic networks). The course emphasizes theoretical foundations, mathematical tools, modeling, and equilibrium notions in different environments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.254",
+  "course_image_thumbnail": {
+    "content": "ece76e60-245e-43e1-243e-1f77d49723b8",
+    "website": "6-254-game-theory-with-engineering-applications-spring-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "f966ced6-bfc6-4349-95c0-f3a5c9620f81",
+  "site_short_id": "6.254-spring-2010",
+  "title": "Course Metadata"
+}
